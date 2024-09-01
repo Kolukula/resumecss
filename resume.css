@@ -1,0 +1,18 @@
+.one{
+    background:linear-gradient(to bottom right,aqua,red,yellow); 
+    
+}
+.car{
+    background-color: red;
+    color: white;
+}
+.ts{
+    background-color: antiquewhite;
+    color: darkblue;
+}
+.ss{
+    background-color: chartreuse;
+}
+.dec{
+    background-color: honeydew;
+}
